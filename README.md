@@ -1,4 +1,4 @@
-# ❌ Tic Tac Toe Game
+# ❌ Tic Tac Toe Game 
 
 Tic Tac Toe is a classic two-player game implemented using **HTML, CSS, and JavaScript**.  
 This project demonstrates basic DOM manipulation, event handling, and game logic using vanilla JavaScript.
