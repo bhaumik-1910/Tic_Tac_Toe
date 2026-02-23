@@ -33,7 +33,7 @@ const editPlayer2BtnElement = document.getElementById("edit-player-2-btn");
 const cancelConfigBtnElement = document.getElementById("cancel-config-btn");
 const startNewGameBtnElement = document.getElementById("start-game-btn");
 // const gameFieldElements = document.querySelectorAll('#game-board li');
-const gameBoardElement = document.getElementById("game-board"); //jovu padse
+const gameBoardElement = document.getElementById("game-board"); 
 
 editPlayer1BtnElement.addEventListener("click", openPlayerConfig);
 editPlayer2BtnElement.addEventListener("click", openPlayerConfig);
