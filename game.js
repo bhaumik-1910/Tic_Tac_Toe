@@ -40,7 +40,7 @@ function switchPlayer() {
 }
 
 function selectGameField(event) {
-  if (event.target.tagName !== "LI" ) {//|| gameIsOver
+  if (event.target.tagName !== "LI" ) {
     return;
   }
 
